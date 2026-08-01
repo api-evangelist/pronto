@@ -1,0 +1,158 @@
+# Pronto
+
+> On-demand house help across 11 Indian cities. Book a trained, background-verified Pronto Professional in the Pronto app in under a minute.
+
+Pronto is a marketplace that connects Indian urban homes with trained Pronto Professionals for everyday household chores: cleaning, laundry, kitchen prep, bathroom care, ironing, and more. Customers book in the Pronto app on iOS or Android. This website (https://withpronto.com) is the marketing surface where visitors learn about services, supported cities, and how Pronto works; the booking flow itself runs in the app.
+
+This file is a clean manifest for AI agents and language models. The same content is rendered as HTML at the URLs below; refer to those pages for the live booking flow, schema.org structured data, and visual design.
+
+## Cities
+
+Pronto operates across 11 Indian cities. Each city page lists the services available locally and links to the Pronto app for booking.
+
+- [House help in Bangalore](https://withpronto.com/cities/bangalore) - on-demand cleaning, laundry, kitchen prep, and more in Bangalore
+- [House help in Delhi](https://withpronto.com/cities/delhi) - on-demand cleaning, laundry, kitchen prep, and more in Delhi
+- [House help in Faridabad](https://withpronto.com/cities/faridabad) - on-demand cleaning, laundry, kitchen prep, and more in Faridabad
+- [House help in Ghaziabad](https://withpronto.com/cities/ghaziabad) - on-demand cleaning, laundry, kitchen prep, and more in Ghaziabad
+- [House help in Gurgaon](https://withpronto.com/cities/gurgaon) - on-demand cleaning, laundry, kitchen prep, and more in Gurgaon
+- [House help in Hyderabad](https://withpronto.com/cities/hyderabad) - on-demand cleaning, laundry, kitchen prep, and more in Hyderabad
+- [House help in Mumbai](https://withpronto.com/cities/mumbai) - on-demand cleaning, laundry, kitchen prep, and more in Mumbai
+- [House help in Navi Mumbai](https://withpronto.com/cities/navi-mumbai) - on-demand cleaning, laundry, kitchen prep, and more in Navi Mumbai
+- [House help in Noida](https://withpronto.com/cities/noida) - on-demand cleaning, laundry, kitchen prep, and more in Noida
+- [House help in Pune](https://withpronto.com/cities/pune) - on-demand cleaning, laundry, kitchen prep, and more in Pune
+- [House help in Thane](https://withpronto.com/cities/thane) - on-demand cleaning, laundry, kitchen prep, and more in Thane
+
+The full directory: https://withpronto.com/cities
+
+## Services
+
+Pronto offers 20 trained-Pro services. Customers can stack multiple tasks into a single booking; one Pro handles them all in one visit.
+
+- [After-Party Express Clean](https://withpronto.com/services/after-party-express-clean) - Express Package
+- [Balcony Cleaning](https://withpronto.com/services/balcony) - Per-Task
+- [Bathroom Cleaning](https://withpronto.com/services/bathroom-surface-cleaning) - Surface Clean
+- [Car Surface Cleaning](https://withpronto.com/services/car-surface-cleaning) - Surface Clean
+- [Complete Wardrobe Cleaning](https://withpronto.com/services/complete-wardrobe-cleaning) - Clean wardrobes. Perfect wardrobes for everyday use.
+- [Dusting & Wiping](https://withpronto.com/services/dusting) - Per-Task
+- [Fan Cleaning](https://withpronto.com/services/fan-cleaning) - Done right. Handled safely. Cleaned thoroughly.
+- [Fridge Cleaning](https://withpronto.com/services/fridge-surface-cleaning) - Express Package
+- [Hourly bookings](https://withpronto.com/services/hourly-30-minutes-1-hour-90-minutes) - Book for up to 3 hours, pick your time.
+- [Ironing & Folding](https://withpronto.com/services/ironing-folding) - Wrinkles? Not on our watch.
+- [Kitchen Cabinet Cleaning](https://withpronto.com/services/kitchen-cabinet-cleaning) - Cabinet refresh. Your kitchen cabinets, thoroughly cleaned.
+- [Kitchen Cleaning](https://withpronto.com/services/kitchen-cleaning) - Surface Clean
+- [Kitchen Prep](https://withpronto.com/services/kitchen-prep) - Per-Task
+- [Laundry](https://withpronto.com/services/laundry) - Per-Task
+- [Packing or Unpacking](https://withpronto.com/services/packing-unpacking) - Per-Task
+- [Plant Care](https://withpronto.com/services/plant-care) - Per-Task
+- [Pre-Party Express Clean](https://withpronto.com/services/pre-party-express-clean) - Express Package
+- [Sweeping & Mopping](https://withpronto.com/services/sweeping-mopping) - Per-Task
+- [Utensils](https://withpronto.com/services/utensils) - We'll do the dishes.
+- [Window Cleaning](https://withpronto.com/services/window) - Clear glass. Clean views. Flawless finish. Every single time.
+
+The full catalogue: https://withpronto.com/services
+
+## Blog
+
+Notes, stories, and updates from the Pronto team.
+
+- [How Pronto is embracing AI and taking its Professionals along](https://withpronto.com/blog/pronto-embraces-ai-with-professionals) - How Pronto brings Professionals into the AI economy: opt-in job recordings that fuel physical AI data and grow Pro earnings, with privacy built in.
+
+The full index: https://withpronto.com/blog
+
+## How Pronto works
+
+1. Download the Pronto app on the App Store (iOS) or Google Play (Android).
+2. Enter your home address. The app shows the services available in your area.
+3. Pick the chores you need. Stack multiple tasks for one visit.
+4. Choose instant (a Pro reaches you in 15 minutes), scheduled, or recurring.
+5. Pay in-app. The Pro arrives and completes the booking.
+
+App Store: https://apps.apple.com/in/app/pronto-house-help-in-minutes/id6743402816
+Google Play: https://play.google.com/store/apps/details?id=com.company.pronto
+
+## Frequently asked questions
+
+**What is Pronto?**
+
+Pronto is an on-demand as well as subscription-based house help platform designed for urban convenience. We connect trained professionals with those in need of help with household chores such as cleaning, laundry, kitchen, and bathroom upkeep. You can schedule our services for later or book instant service which will reach you within 15 minutes.
+
+**How is Pronto different from hiring house help directly?**
+
+With Pronto you get a trained, background-verified Pro, transparent in-app pricing, on-demand booking within 15 minutes, and the ability to pause or reschedule without awkward conversations. There's no advance payment, no informal commitments, and no risk of a no-show with no recourse - if a Pro can't make it, the app re-assigns automatically.
+
+**How do I download the Pronto app?**
+
+The Pronto app is available on the Google Play Store (Android) and Apple App Store (iPhone). Search for "Pronto - house help" or use the download links anywhere on this site. Sign up takes under a minute - just your phone number, address, and OTP.
+
+**How do I book services?**
+
+You can book our services through the Pronto app available on both Google Play Store and App Store. Just select the chores you need help with, pick a time and we will send across our verified professional who will take it from there!
+
+**How quickly can a Pronto Professional reach my home?**
+
+For instant bookings, a verified Pro reaches you within 15 minutes of confirmation. You can also schedule a Pro for later in the day or set up a recurring slot for the same time each week.
+
+**Can I book multiple services in one visit?**
+
+Yes. The Pronto app lets you stack tasks - say sweeping, mopping, utensils, and ironing - into a single booking. One Pro handles all of them in one visit, so you don't coordinate multiple visits or pay multiple booking fees.
+
+**Can I book a recurring service?**
+
+Yes. Pronto supports recurring bookings - daily, weekly, or a custom cadence that fits your home. Set it up once in the app and the system auto-assigns the best available trained Pro for every visit, with consistent service quality across visits. You can pause, reschedule, or cancel any visit before it starts.
+
+**Can I cancel a Pronto booking?**
+
+Yes. You can cancel any booking from the app before the Pro arrives. Cancellations made well in advance are free; cancellations close to the booking time may carry a small charge to compensate the Pro for the slot they reserved. See our Cancellation Policy for the exact timing tiers.
+
+**Are Pronto Professionals background-verified?**
+
+Yes. Every Pronto Pro completes a formal training program and a thorough background check before their first booking. We also continuously monitor service quality through customer ratings and feedback after every visit.
+
+**How can I trust your service?**
+
+All the Pronto professionals undergo a formal training process and thorough background check. We ensure services provided by trained and trusted professionals. In the case of any occurrence that makes you uncomfortable, feel free to reach out to us immediately and our team will work promptly towards resolving the issue. We have proudly cleaned over 15,000 homes with an over 99% satisfaction rate.
+
+**What if I'm not happy with the service?**
+
+If a visit doesn't meet your expectations, reach out to us immediately at help@withpronto.com or via chat support inside the Pronto app. We work to resolve the issue, send a replacement Pro if needed, and process a refund where appropriate. We take every piece of feedback seriously.
+
+**How are your services priced?**
+
+Pricing is transparent and shown upfront in the Pronto app. Each service is priced per visit - no per-bedroom multipliers, no hidden charges, no advance deposits. Hourly bundles start from 30-minute slots; per-task services like bathroom cleaning, fridge cleaning, or utensil washing are priced per visit. Open the app and enter your address to see live prices for your locality.
+
+**Is Pronto available in my area?**
+
+Pronto is live in 11 Indian cities, including Bangalore, Delhi, Faridabad, Ghaziabad, Gurgaon, Hyderabad, Mumbai, Navi Mumbai, Noida, Pune, and Thane. Within each city we serve hundreds of localities and gated societies. Open the Pronto app and enter your address to confirm availability at your exact location.
+
+**Where can I use Pronto?**
+
+Pronto is live in 11 cities across India - Mumbai, Bangalore, Delhi, Hyderabad, Pune and more. Open the app and enter your address to confirm availability in your area. Don't see your city? We are expanding fast. Request Pronto in your locality.
+
+**How do I contact support?**
+
+Need help? Email us at help@withpronto.com or reach out to us via chat support inside the Pronto app.
+
+## Become a Pronto Professional or Buddy
+
+Pronto recruits two roles for the supply side:
+
+- [Become a Pronto Professional](https://partner.withpronto.com) - full-service trained Pros who serve customer bookings end-to-end.
+- [Become a Pronto Buddy](https://partner.withpronto.com/buddy) - part-time Pros for shorter or one-off shifts.
+
+Both surfaces live on partner.withpronto.com (a separate site from this customer-facing one).
+
+## Brand and contact
+
+- Customer support: help@withpronto.com (or chat support inside the Pronto app)
+- Instagram: https://www.instagram.com/withpronto/
+- LinkedIn: https://www.linkedin.com/company/withpronto
+- YouTube: https://www.youtube.com/@with_pronto
+- Logo: https://withpronto.com/brand/green-logo.png
+
+## Optional
+
+- [Photo credits for city landmark imagery](https://withpronto.com/credits)
+- [Terms & Conditions](https://withpronto.com/tnc)
+- [Privacy Policy](https://withpronto.com/privacy-policy)
+- [Cancellation Policy](https://withpronto.com/cancellation-policy)
+- [Delete Account](https://withpronto.com/delete-account)
